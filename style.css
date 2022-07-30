@@ -1,7 +1,10 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
-
-body {
-    background: rgba(29, 29, 29, 0.7);
+.carousel-caption p{
+  width: 60%;
+  margin: auto;
+}
+.ready-join{
+  width: 60%;
 }
